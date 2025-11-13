@@ -110,7 +110,7 @@ def z_score(x, mu, sigma):
     Returns the z-score of x
     """
 
-    # Participating group member names go in this comment
+    # Deon Ornelas, Gena Nelson, Miles Oehm
 
     # Your code goes between this comment and the return statement
 

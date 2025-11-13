@@ -110,7 +110,7 @@ def z_score(x, mu, sigma):
     Returns the z-score of x
     """
 
-    # Deon Ornelas, Gena Nelson, Miles Oehm TEST
+    # Deon Ornelas, Gena Nelson, Miles Oehm TEST 2
 
     # Your code goes between this comment and the return statement
 
